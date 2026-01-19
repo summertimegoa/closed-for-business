@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "/closed.html"
+  status = 410
